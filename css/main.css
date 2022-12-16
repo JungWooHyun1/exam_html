@@ -1,5 +1,7 @@
 .container{
     border: 1px solid black;
+    width: 900px;
+    margin: 0px auto;
 }
 
 header, footer {

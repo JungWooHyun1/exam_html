@@ -1,0 +1,25 @@
+.container {
+    width: 500px;
+    padding: 20px;
+    margin: 0px auto;
+}
+
+.lbl {
+    display: inline-block;
+    width: 100px;
+}
+
+.item{
+    margin-bottom: 5px;
+}
+
+.tel{
+    text-align: center;
+    margin-bottom: 5px;
+    width: 35px;
+    
+}
+
+.number{
+    margin:  0px 3px;
+}
