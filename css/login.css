@@ -1,0 +1,14 @@
+.container {
+    width: 500px;
+    padding: 20px;
+    margin: 0px auto;
+}
+
+.lbl {
+    display: inline-block;
+    width: 100px;
+}
+
+.item{
+    margin-bottom: 5px;
+}

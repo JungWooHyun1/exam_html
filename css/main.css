@@ -1,0 +1,39 @@
+.container{
+    border: 1px solid black;
+}
+
+header, footer {
+    background-color: beige;
+    padding: 30px;
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+
+section {
+    display: grid;
+    grid-template-columns: 200px auto 100px;
+}
+
+nav{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+article{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+aside{
+    border: 1px solid black;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    text-decoration: none;
+}
+
+table{
+    width: 100%;
+}
